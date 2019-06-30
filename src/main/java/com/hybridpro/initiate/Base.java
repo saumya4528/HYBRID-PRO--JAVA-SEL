@@ -17,7 +17,6 @@ import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.hybridpro.filereader.PropertyReader;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 
 
 public class Base {
